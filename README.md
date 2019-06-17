@@ -1,6 +1,6 @@
-# lamp-docker
+# LAMP stack docker boilerplate
 
-simple LAMP stack docker boilerplate, supporting:
+Simple LAMP stack, supporting:
 - PostCSS with Tailwind
 - Typscript
 - Vue
